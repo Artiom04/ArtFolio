@@ -6,7 +6,7 @@ ArtFolio è un sistema digitale pensato per le istituzioni AFAM (Alta Formazione
 
 ## 📂Repository
 La repo è organizzata per facilitare la navigazione tra le varie sezioni. Ecco la struttura principale:
-
+```
 ┌── Codice/               # ⚙️ I codici delle parti applicative del progetto
 │   ├── Boundary
 │   ├── Control
@@ -22,4 +22,4 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni. Ecco 
 │   └── ODD.pdf
 ├── Tesina 25-26.pdf		    # 🎓 Indicazioni per lo sviluppo del progetto
 └── README.md              	# ℹ️ Il file che stai leggendo ora
-
+```
