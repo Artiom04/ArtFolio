@@ -20,6 +20,6 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni. Ecco 
 │   ├── RAD.pdf
 │   ├── SDD.pdf
 │   └── ODD.pdf
-├── Tesina 25-26.pdf		    # 🎓 Indicazioni per lo sviluppo del progetto
+├── Tesina 25-26.pdf		  # 🎓 Indicazioni per lo sviluppo del progetto
 └── README.md              	# ℹ️ Il file che stai leggendo ora
 ```
