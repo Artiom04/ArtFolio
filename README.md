@@ -12,7 +12,7 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni. Ecco 
 │   ├── Control
 │   ├── Entity
 │   ├── Properties
-│   ├──  Resouces
+│   ├── Resouces
 │   ├── Program.cs
 │   ├── WinFormApp2.csproj
 │   └── WinFormsApp2.sln
