@@ -29,4 +29,4 @@ Il progetto è stato sviluppato da:
 | Artiom Girgenti | Claudio Richichi | Rugiada Maria Centonze |
 |----------|----------|----------|
 | [Linkedin](https://www.linkedin.com/in/artiom-girgenti-b05288310/) | Linkedin | Linkedin |
-| [Email](artiomgirgenti04@gmail.com | Email | Email|
+| [Email](artiomgirgenti04@gmail.com) | Email | Email|
