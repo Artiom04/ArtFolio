@@ -1,4 +1,4 @@
-![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet)![License](https://img.shields.io/badge/license-MIT-green)
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp) ![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet) ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 # ArtFolio
 ## 📖Introduzione
