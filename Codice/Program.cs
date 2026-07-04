@@ -1,4 +1,6 @@
 using System.Diagnostics;
+using ArtFolio.AccessoPagina.Control;
+using ArtFolio.GestioneAccount.Interface;
 
 namespace ArtFolio;
 internal static class Program
