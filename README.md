@@ -1,4 +1,4 @@
-![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet)![License](https://img.shields.io/badge/license-MIT-green)
 
 # ArtFolio
 ## 📖Introduzione
@@ -31,4 +31,4 @@ Il progetto è stato sviluppato da:
 | Artiom Girgenti | Claudio Richichi | Rugiada Maria Centonze |
 |----------|----------|----------|
 | [Linkedin](https://www.linkedin.com/in/artiom-girgenti-b05288310/) | Linkedin | Linkedin |
-| mailto:artiomgirgenti04@gmail.com | Email | Email|
+| [Email](artiomgirgenti04@gmail.com) | Email | Email|
