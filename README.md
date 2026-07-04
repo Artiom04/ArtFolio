@@ -1,5 +1,5 @@
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp) ![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet) ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
-
+![Screenshot](risorse/banner.png)
 # ArtFolio
 ## 📖Introduzione
 Questa è la Repo di ArtFolio,  progetto di Ingegneria del Software dell'A.A 2025-2026.
