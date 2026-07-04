@@ -23,3 +23,10 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni. Ecco 
 ├── Tesina 25-26.pdf	    # 🎓 Indicazioni per lo sviluppo del progetto
 └── README.md              	# ℹ️ Il file che stai leggendo ora
 ```
+
+## 👥 Made By
+Il progetto è stato sviluppato da:
+| Artiom Girgenti | Claudio Richichi | Rugiada Maria Centonze |
+|----------|----------|----------|
+| [Linkedin](https://www.linkedin.com/in/artiom-girgenti-b05288310/) | Linkedin | Linkedin |
+| [Email](artiomgirgenti04@gmail.com | Email | Email|
